@@ -1,4 +1,4 @@
-### Các bước cần làm để chạy dự án Backend React Native Basic
+### Các bước cần làm để chạy dự án Backend Shop App Mobile
 
 #### 1. Cài đặt thư viện với câu lệnh: npm install --omit=dev
 
@@ -6,19 +6,16 @@
 
 #### 3. Chạy dự án với câu lệnh: npm start
 
-
 =================
 
-Tác giả: Hỏi Dân IT
+Tác giả: Nguyễn Viết Nam
 
-Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
+Mọi thông tin về Tác giả Nguyễn Viết Nam, các bạn có thể tìm kiếm tại đây:
 
-Website chính thức: https://hoidanit.vn/
+Facebook “Nguyễn Viết Nam” : https://www.facebook.com/nguyen.viet.nam.372082
 
-Youtube “Hỏi Dân IT” : https://www.youtube.com/@hoidanit
+Tiktok “Nguyễn Viết Nam” : https://www.tiktok.com/@nam30122003
 
-Tiktok “Hỏi Dân IT” :  https://www.tiktok.com/@hoidanit
+Instagram “Nguyễn Viết Nam” : https://www.instagram.com/namnguyen2_3
 
-Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
-
-Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
+Github Nguyễn Viết Nam: https://github.com/nam-Space
